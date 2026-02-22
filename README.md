@@ -13,8 +13,8 @@
 - Trying to force myself into a better habit at the moment, learning and building new things every day.
 
 ### Contact
-- You can check out my tech gallery at [fseek.net](https://fseek.net) and my portfolio at [hatanlinh.vn](https://hatanlinh.vn).
-- You can send me an email at either `linh[at]fseek.net` or `linh[at]hatanlinh.vn`.
+- You can check out my tech gallery at [fseek.net](https://fseek.net).
+- My personal online portfolio is available at [hatanlinh.vn](https://hatanlinh.vn).
 
 <!--
 **hatanlinh/hatanlinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
